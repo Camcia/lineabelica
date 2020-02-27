@@ -1,0 +1,38 @@
+html, body {
+    background-color: #DCDCDC;
+    height: 100%;
+    margin: 0; 
+}
+
+#titulo-linea {
+    background-color: black;
+    text-align: center;
+    margin: 0;
+    width: 100%;
+}
+
+.titulo {
+    margin: 0;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-family: 'Montserrat';
+    font-size: 2.2em;
+    font-weight: 800;
+    color: white;
+}
+
+#creditos {
+    text-align: center;
+}
+
+iframe {
+    padding-top: 50px;
+}
+
+#creditos > p {
+    color: #5c5c5c;
+    font-style: italic;
+    font-size: 1.3em;
+    padding-top: 20px;
+    font-family: 'Libre Baskerville';
+}
